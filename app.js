@@ -239,7 +239,7 @@ form.addEventListener('submit', e => {
     '10':             'Formation d\'Opposition',
     '15':             'Réponse à Assignation',
     '60_contestation':'Contestation de Décision',
-    '30':             'Déclaration d\'Appel',
+    '10':             'Interjeter un Appel',
     '60_cassation':   'Pourvoi en Cassation',
     '60_admin':       'Recours Administratif',
     '90':             'Dépôt de Conclusions',
